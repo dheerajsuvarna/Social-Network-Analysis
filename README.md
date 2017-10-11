@@ -4,7 +4,7 @@ Analyse a Social Network, Cluster the data and perform Fraud Detection
 
 Analyse a Socail Network
 
-1) Find the Degree Centrality, Closness Centrality and Betweeness. Create Visulations
+1) Find the Degree Centrality, Closness Centrality and Betweeness. Create Visualizations
 
 2) Multivariate Regression Model
 
